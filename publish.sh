@@ -1,5 +1,6 @@
 gitbook install && gitbook build
 
+gitbook build
 # checkout to the gh-pages branch
 git branch -D gh-pages
 git branch gh-pages
